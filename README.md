@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Fengyu He 👋
 
-<!--
-**Kan1aSorata/Kan1aSorata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS developer and graduate student in Japan.  
+Currently exploring **AI**, **multimodal research**, and **indie app development**.
 
-Here are some ideas to get you started:
+I'm interested in building products that connect software with real-life experiences — especially around mobility, car culture, and user-centered design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently
+
+- 🎓 Studying at the University of Tsukuba
+- 💻 Former iOS engineer
+- 🏎️ Building **Apexing**, a driving experience recording app
+- 🤖 Learning more about explainable AI and multimodal analysis
+
+---
+
+## Tech
+
+`Swift` `iOS` `Python` `Go` `SwiftUI` `UIKit` `Firebase` `Google Cloud`
+
+---
+
+## Interests
+
+Cars · Photography · AI · Product Design · J-POP · Green Day
+
+---
+
+> Building products at the intersection of software, mobility, and human experience.

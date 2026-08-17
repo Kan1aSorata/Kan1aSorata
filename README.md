@@ -18,13 +18,13 @@ I'm interested in building products that connect software with real-life experie
 
 ## Tech
 
-`Swift` `iOS` `Python` `Go` `SwiftUI` `UIKit` `Firebase` `Google Cloud`
+`Swift` `iOS` `Python` `Go` `SwiftUI` `UIKit`
 
 ---
 
 ## Interests
 
-Cars · Photography · AI · Product Design · J-POP · Green Day
+Cars · Photography · AI · Product Design
 
 ---
 
